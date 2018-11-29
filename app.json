@@ -1,7 +1,7 @@
 {
   "expo": {
     "name": "Gato",
-    "description": "This project is a simply TicTacToe or Gato game builded with React Native.",
+    "description": "This project is a TicTacToe or Gato game builded with React Native.",
     "slug": "Gato",
     "privacy": "public",
     "sdkVersion": "31.0.0",
